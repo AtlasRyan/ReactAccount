@@ -54,7 +54,7 @@ module.exports = (appInfo) => {
 			// 用户名
 			user: "root",
 			// 密码
-			password: "ddtddt1998", // 初始化密码，没设置的可以不写
+			password: "Ddtddt1998", // 初始化密码，没设置的可以不写
 			// 数据库名
 			database: "RAccount", // 我们新建的数据库名称
 		},
