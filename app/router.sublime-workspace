@@ -1,0 +1,456 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"style"
+			],
+			[
+				"h",
+				"head"
+			],
+			[
+				"cosn",
+				"console_log"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"typ",
+				"typeof〔keyword〕"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"co",
+				"course-section"
+			],
+			[
+				"le",
+				"level"
+			],
+			[
+				"la",
+				"lable"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"al",
+				"alt"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"pre",
+				"preparePlaceholder"
+			],
+			[
+				"de",
+				"desctext"
+			],
+			[
+				"cre",
+				"createTextNode"
+			],
+			[
+				"set",
+				"setAttribute"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"ne",
+				"nextSibling"
+			],
+			[
+				"tar",
+				"targetElemnt"
+			],
+			[
+				"inse",
+				"insertBefore"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"cr",
+				"createElement\t( localName: DOMString ): Element Document"
+			],
+			[
+				"fu",
+				"function\tabc"
+			],
+			[
+				"oncl",
+				"onclick\t: EventHandler Window"
+			],
+			[
+				"first",
+				"firstElementChild\t: Element Element"
+			],
+			[
+				"chil",
+				"childNodes\t: NodeList Node"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insatll",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"node app.js",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.cn/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/steam/steamapps/workshop/content/431960/2784298744/project.json",
+		"/D/BaiduYunDownload/SLG/new_comic/app.js",
+		"/D/Code/DD/react-vite-h5/react-vite-h5/src/components/PopupType/style.module.less",
+		"/C/Users/12879/Desktop/《JS高程》笔记：Promise与异步函数.md",
+		"/C/Users/12879/Desktop/picgo.log",
+		"/C/Users/12879/AppData/Roaming/picgo/data.json",
+		"/C/Users/12879/Desktop/练习/Leecode/整数反转.html",
+		"/D/BaiduYunDownload/【27】源码+课件+软件/22-26",
+		"/D/BaiduYunDownload/【27】源码+课件+软件/22-26 拓展课程/23React资料/混合app资料/day07/code/rn_douban2/components/movie/拓展课程/23React资料/混合app资料/day07/code/rn_douban2/components/movie/MovieList.js",
+		"/D/BaiduYunDownload/【27】源码+课件+软件/22-26 拓展课程/23React资料/混合app资料/day07/code/rn_douban2/components/movie/拓展课程/23React资料/混合app资料/day07/code/rn_douban2/components/movie/MovieDetail.js",
+		"/D/学习/本科课程/毕业设计/设计部分/Web/TSP.html",
+		"/D/steam/steamapps/workshop/content/431960/2763155632/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2759239614/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2759131708/project.json",
+		"/D/Blog/themes/fluid/_config.yml",
+		"/D/Blog/_config.yml",
+		"/D/Blog/_config.landscape.yml",
+		"/D/steam/steamapps/workshop/content/431960/2754576288/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2731369649/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2754047136/project.json",
+		"/C/Users/12879/Desktop/练习/random/css画三角形.html",
+		"/C/Users/12879/Desktop/练习/React/6668a1f6986742109c00a581ce704605-f6c882b6ae18bde42dcf6fdb751aae93495a2275/index.html",
+		"/D/BaiduYunDownload/electron学习项目精品/2723497875/project.json",
+		"/C/Users/12879/Desktop/练习/React/6668a1f6986742109c00a581ce704605-f6c882b6ae18bde42dcf6fdb751aae93495a2275/like_button.js",
+		"/C/Users/12879/Desktop/练习/React/like_button.js",
+		"/D/steam/steamapps/workshop/content/431960/2761247575/project.json",
+		"/C/Users/12879/Desktop/buju.html",
+		"/C/Users/12879/AppData/Roaming/Typora/conf/conf.default.json",
+		"/C/Users/12879/Desktop/��������˼�����Ŀ⡤PDF�Ŀ�.html",
+		"/D/steam/steamapps/workshop/content/431960/2617846948/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2713720678/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2716564722/project.json",
+		"/C/Users/12879/Desktop/练习/图片上传.html",
+		"/D/Code/DD/react-vite-h5/react-vite-h5/vite.config.js",
+		"/D/steam/steamapps/workshop/content/431960/2668067724/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2682386303/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2672706945/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2579131556/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2639210791/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2650938670/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2671930125/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2678257664/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2691488871/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2670208121/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2609654085/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2605942641/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2648331162/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2639215443/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2662797831/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2650259596/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2670180642/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2579155490/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2645310393/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2645487043/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2644670922/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2633029169/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2644727597/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2668467142/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2668465706/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2678190704/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2639991248/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2670088163/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2667810862/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2639218906/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2579150493/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2657558666/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2579159690/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2618546601/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2677557829/project.json",
+		"/D/Code/react-vite-h5/package.json",
+		"/D/Code/DD/react-vite-h5/react-vite-h5/postcss.config.js",
+		"/D/Code/DD/react-vite-h5/react-vite-h5/src/utils/axios.js",
+		"/D/steam/steamapps/workshop/content/431960/2642110218/project.json",
+		"/D/steam/steamapps/workshop/content/431960/788989119/index.html",
+		"/D/steam/steamapps/workshop/content/431960/788989119/js/index.js",
+		"/D/steam/steamapps/workshop/content/431960/788989119/css/style.css",
+		"/D/steam/steamapps/workshop/content/431960/835186492/js/TweenLite.min.js",
+		"/D/steam/steamapps/workshop/content/431960/788989119/project.json",
+		"/D/BaiduYunDownload/SLG/new_comic/package.json",
+		"/D/steam/steamapps/workshop/content/431960/2663563083/project.json",
+		"/D/BaiduYunDownload/SLG/new_comic/package-lock.json",
+		"/C/Users/12879/Desktop/练习/random/立方体.html",
+		"/C/Users/12879/Desktop/练习/random/立即执行函数.html",
+		"/C/Users/12879/Desktop/练习/random/硬币旋转.html",
+		"/D/BaiduYunDownload/SLG/new_comic/hello.js",
+		"/D/steam/steamapps/workshop/content/431960/2652362518/project.json",
+		"/D/BaiduYunDownload/SLG/TXX-86/绿帽帝王传(1-16完)作者：guodong44.txt",
+		"/D/steam/steamapps/workshop/content/431960/2650496228/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2647011570/project.json",
+		"/C/Users/12879/Downloads/juejue-server/juejue-server/app/controller/upload.js",
+		"/C/Users/12879/Downloads/juejue-server/juejue-server/app/controller/user.js",
+		"/C/Users/12879/Downloads/juejue-server/juejue-server/app/controller/bill.js",
+		"/D/steam/steamapps/workshop/content/431960/2647109987/project.json",
+		"/D/学习/本科课程/毕业设计/设计部分/Web/TSP - 副本.html",
+		"/D/steam/steamapps/workshop/content/431960/2639031361/project.json",
+		"/C/Users/12879/Desktop/练习/JavaScriptDOM编程艺术例/图片库3/gallery.html",
+		"/C/Users/12879/Desktop/练习/JavaScriptDOM编程艺术例/图片库3/scripts/showPic.js",
+		"/D/steam/steamapps/workshop/content/431960/2636400818/project.json",
+		"/D/steam/steamapps/workshop/content/431960/2637428850/project.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/base/Achievement.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢基础（气运剧情美人谱）/BattleSkillValue.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢基础（气运剧情美人谱）/BattleHaloSummon.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢基础（气运剧情美人谱）/BattleHaloBase.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢基础（气运剧情美人谱）/BattleEffect.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢基础（气运剧情美人谱）/DramaModel.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢基础（气运剧情美人谱）/DramaDialogue.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢基础（气运剧情美人谱）/BattleUnitBase.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢基础（气运剧情美人谱）/BattleUnitAttr.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢受孕生子互动/RoleLogLocal.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢受孕生子互动/LocalText.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢受孕生子互动/DramaTrigger.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢受孕生子互动/DramaOptions.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢受孕生子互动/DramaDialogue.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢双修互动/NpcActionFilter.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢双修互动/RoleLogLocal.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢双修互动/NpcFeedback1031.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢御女双修/RoleEffect.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢御女双修/RoleCreateFeature.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢御女双修/LocalText.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Villain/patch_合欢御女双修/BattleSkillValue.json",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Butian/Assets/Game/Portrait/Hat/9110/asset.yml",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Butian/Assets/Game/Portrait/Hat/9110/.cache.method",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Butian/Assets/Texture/FortuiousBigBG/52320001/asset.yml",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Butian/Assets/Texture/Fortuitous/52310003/asset.yml",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Butian/config.yml",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Butian/Assets/Texture/Fortuitous/52310001/asset.yml",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/HeHuanShuangXiu.log",
+		"/D/BaiduYunDownload/SLG/LYX21-444/LYX21-444/MOD FULL/2029 MOD FULL/Mods/Butian/_assetes_type_map"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "router.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 172.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
