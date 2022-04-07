@@ -1,33 +1,7 @@
-# example
+# ReactAccount-BackEnd
+记账本项目服务端代码，使用egg.js及其配套插件开发
 
-
-
-## QuickStart
-
-<!-- add docs here for user -->
-
-see [egg docs][egg] for more detail.
-
-### Development
-
-```bash
-$ npm i
-$ npm run dev
-$ open http://localhost:7001/
-```
-
-### Deploy
-
-```bash
-$ npm start
-$ npm stop
-```
-
-### npm scripts
-
-- Use `npm run lint` to check code style.
-- Use `npm test` to run unit test.
-- Use `npm run autod` to auto detect dependencies upgrade, see [autod](https://www.npmjs.com/package/autod) for more detail.
-
-
-[egg]: https://eggjs.org
+### 还未解决的问题
+1. 图片上传没有采取OSS服务
+2. CRUD逻辑有待改进
+3. api文档尚未撰写
